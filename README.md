@@ -1,2 +1,3 @@
-# bioinformatics-workflow
- Bioinformatics workflow
+# Bioinformatics workflow
+
+![workflow-vcf-selectivesweeps.png](workflow-vcf-selectivesweeps.png)
