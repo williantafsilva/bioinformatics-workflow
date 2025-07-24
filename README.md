@@ -4,6 +4,6 @@
 
 ![workflow-vcf-selectivesweeps.png](workflow-vcf-selectivesweeps.png)
 
-## Workflow: RNAseq mapping and transcript quantification
+## Workflow: RNA-seq read mapping and transcript quantification
 
 ![workflow-vcf-selectivesweeps.png](workflow-RNAseq-mapping-transcriptquantification.png)
