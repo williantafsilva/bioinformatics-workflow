@@ -8,6 +8,8 @@
 
 ![workflow-GWAS-QTL.png](workflow-GWAS-QTL.png)
 
+**GWAS tutorial using GEMMA [here](tutorial-gemmagwas.md)**
+
 ## Workflow: Selective sweeps (SweepFinder2, SweeD, OmegaPlus, Rehh)
 
 ![workflow-vcf-selectivesweeps.png](workflow-vcf-selectivesweeps.png)
