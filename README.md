@@ -6,9 +6,9 @@
 
 ## Workflow: Genome-wide association study (GWAS) / Quantitative trait loci analysis (QTL, eQTL, methQTL)
 
-![workflow-GWAS-QTL.png](workflow-GWAS-QTL.png)
+GWAS tutorial using GEMMA *[here](tutorial-gemmagwas.md)*.
 
-**GWAS tutorial using GEMMA [here](tutorial-gemmagwas.md)**
+![workflow-GWAS-QTL.png](workflow-GWAS-QTL.png)
 
 ## Workflow: Selective sweeps (SweepFinder2, SweeD, OmegaPlus, Rehh)
 
