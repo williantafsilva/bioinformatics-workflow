@@ -20,7 +20,7 @@
 
 ```
 chmod -R +x $(find ${PATHTOTUTORIALSCRIPTS} -type f)
-chmod -R -x $(find ${PATHTOTUTORIALSCRIPTS} -name "*.txt")
+#chmod -R -x $(find ${PATHTOTUTORIALSCRIPTS} -name "*.txt")
 chmod -R -x $(find ${PATHTOTUTORIALSCRIPTS} -name "*.md")
 ```
 
